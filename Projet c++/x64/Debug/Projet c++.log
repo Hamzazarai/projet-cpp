@@ -1,0 +1,6 @@
+﻿  Projet c++.cpp
+C:\Users\hp\Desktop\cours\cpp\Projet c++\Projet c++\Projet c++.cpp(13,19): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\hp\Desktop\cours\cpp\Projet c++\Projet c++\Projet c++.cpp(14,23): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\hp\Desktop\cours\cpp\Projet c++\Projet c++\Projet c++.cpp(15,22): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\hp\Desktop\cours\cpp\Projet c++\Projet c++\Projet c++.cpp(39,10): warning C4101: 'restart' : variable locale non référencée
+  Projet c++.vcxproj -> C:\Users\hp\Desktop\cours\cpp\Projet c++\x64\Debug\Projet c++.exe
